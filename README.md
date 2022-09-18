@@ -1,6 +1,6 @@
 # Unity - Game
 
-## Scoccer-Scripting challenge outcome:
+## Soccer-Scripting challenge outcome:
 
 + Enemies move towards your net, but you can hit them to deflect them away
 + Powerups apply a temporary strength boost, then disappear after 5 seconds
